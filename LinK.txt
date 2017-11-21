@@ -1,0 +1,27 @@
+
+interview question
+
+1.retrofil=t vs volley:  http://www.tothenew.com/blog/retrofit-vs-volley/#.WfGI8BdFK1U.facebook
+
+2.RXJAVA https://medium.com/@vamsitallapudi/rxandroid-tutorial-1-getting-started-with-reactive-extensions-in-android-864d45077cd3
+
+https://blog.mindorks.com/implement-search-using-rxjava-operators-c8882b64fe1d
+
+Kotlin:  https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-development-b1e5d23cc2d8
+
+kotlin : https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
+
+https://antonioleiva.com/reasons-kotlin-android/
+..https://blog.mindorks.com/should-i-learn-kotlin-or-stick-to-java-3a73c3580ac3
+
+a>  https://medium.com/@PongPloyAppDev/top-android-libraries-may-september-2017-for-android-developer-library-github-280859685963
+
+1. Localization Activity:  https-medium.com-PongPloyAppDev-top-android-libraries-may-september-2017-for-android-developer-li
+2.  IconSwitch:  https://android-arsenal.com/details/1/5517?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Android_Arsenal+%28The+Android+Arsenal%29
+3.  DebugOverlay-Android: https://android-arsenal.com/details/1/5516
+4. PatternLockView: https://android-arsenal.com/details/1/5515
+5. Android Ringtone Picker: https://android-arsenal.com/details/1/5513
+6. ValidUtils:  https://android-arsenal.com/details/1/5522
+7. Medal: https://android-arsenal.com/details/1/6031
+8.NavigationBarView: https://android-arsenal.com/details/1/6033?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Android_Arsenal+%28The+Android+Arsenal%29
+9.  
