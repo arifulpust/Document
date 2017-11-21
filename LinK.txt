@@ -11,8 +11,10 @@ Kotlin:  https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-
 
 kotlin : https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
 
-https://antonioleiva.com/reasons-kotlin-android/
-..https://blog.mindorks.com/should-i-learn-kotlin-or-stick-to-java-3a73c3580ac3
+kotlin: https://antonioleiva.com/reasons-kotlin-android/
+Kotlin:  https://blog.mindorks.com/should-i-learn-kotlin-or-stick-to-java-3a73c3580ac3
+
+Kotlin: https://github.com/MindorksOpenSource/from-java-to-kotlin
 
 a>  https://medium.com/@PongPloyAppDev/top-android-libraries-may-september-2017-for-android-developer-library-github-280859685963
 
