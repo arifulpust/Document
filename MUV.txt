@@ -1,0 +1,45 @@
+
+
+
+Android Runtime (ART) is an application runtime environment used by the Android operating system. Replacing Dalvik, which is the process virtual machine originally used by Android, ART performs the translation of the application's bytecode into native instructions that are later executed by the device's runtime environmen
+ 
+.ART runs app machine code directly (native execution), it doesn’t hit the CPU as hard as just-in-time code compiling on Dalvik. Because of less CPU usage results in less battery drain.
+	android runtime · Apps run faster as DEX bytecode translation done during installation.
+· Reduces startup time of applications as native code is directly executed.
+· Improves battery performance as power utilized to interpreted byte codes line by line is saved.
+· Improved garbage collector.
+· Improved developer tool.
+. App Installation takes more time because of DEX bytecodes conversion into machine code during installation.
+
+
+	OnePlus 5,HTC U11 
+
+	Oreo 8.0
+Behavior Changes
+
+1.Changes for all apps
+Background execution limits
+
+As one of the changes that Android 8.0 (API level 26) introduces to improve battery life, when your app enters the cached state, with no active components, the system releases any wakelocks that the app holds
+
+Apps that are running in the background now have limits on how freely they can access background services.
+Apps cannot use their manifests to register for most implicit broadcasts (that is, broadcasts that are not targeted specifically at the app)
+
+Android background location limits
+In order to preserve battery, user experience, and system health, background apps receive location updates less frequently when used on a device running Android 8.0. This behavior change affects all apps that receive location updates, including Google Play services.
+
+These changes affect the following APIs:
+
+Fused Location Provider (FLP)
+Geofencing
+GNSS Measurements
+Location Manager
+Wi-Fi Manager
+
+
+For being  an officially supported language to write Android Apps,i start learning kotlin for the purpose of android app development.
+during the learning of kotlin some ,i realize thak
+.Android development suning kotlin is much easier than java
+.Less errors
+.The code is easier to understand
+.more work done in less time, more stability, and less time spent in fixing bugs.
