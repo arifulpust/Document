@@ -24,7 +24,8 @@ pdf :https://www.androidtutorialpoint.com/basics/android-pdf-creator-tutorial
 6. https://stackoverflow.com/questions/30498746/print-text-on-printer-via-usb-communication-android
 7.http://deepshikhapuri.blogspot.in/2017/06/create-pdf-file-in-android.html
 8.http://android-er.blogspot.com/2017/02/create-pdf-using-pdfdocument.html
-
+9. https://www.youtube.com/watch?v=37Iw6oOMHaM
+10.https://www.youtube.com/watch?v=UFNm_czavNg
 a>  https://medium.com/@PongPloyAppDev/top-android-libraries-may-september-2017-for-android-developer-library-github-280859685963
 
 1. Localization Activity:  https-medium.com-PongPloyAppDev-top-android-libraries-may-september-2017-for-android-developer-li
