@@ -4,16 +4,12 @@ interview question
 1.retrofil=t vs volley:  http://www.tothenew.com/blog/retrofit-vs-volley/#.WfGI8BdFK1U.facebook
 
 2.RXJAVA https://medium.com/@vamsitallapudi/rxandroid-tutorial-1-getting-started-with-reactive-extensions-in-android-864d45077cd3
-
+3. Dragger 2: https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-2-b55857911bcd
 https://blog.mindorks.com/implement-search-using-rxjava-operators-c8882b64fe1d
-
 Kotlin:  https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-development-b1e5d23cc2d8
-
 kotlin : https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
-
 kotlin: https://antonioleiva.com/reasons-kotlin-android/
 Kotlin:  https://blog.mindorks.com/should-i-learn-kotlin-or-stick-to-java-3a73c3580ac3
-
 Kotlin: https://github.com/MindorksOpenSource/from-java-to-kotlin
 
 pdf :https://www.androidtutorialpoint.com/basics/android-pdf-creator-tutorial
