@@ -57,4 +57,12 @@ compile 'io.reactivex.rxjava2:rxjava:2.1.3'
 RxJava 2 for Android
 *****  https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850
 **    https://code.tutsplus.com/tutorials/getting-started-with-reactivex-on-android--cms-24387
+*** https://blog.mindorks.com/understanding-rxjava-subject-publish-replay-behavior-and-async-subject-224d663d452f
+mvp/mvc
+_____________________________
+*   https://medium.com/@ankit.sinhal/mvc-mvp-and-mvvm-design-pattern-6e169567bbad
+material design
+_______________
+*  https://android-developers.googleblog.com/2015/05/android-design-support-library.html
+* https://codelabs.developers.google.com/codelabs/material-design-style/index.html?index=..%2F..%2Findex#2
 
