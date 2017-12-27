@@ -1,3 +1,15 @@
+Main Topics
+i)   RxJava
+ii)  MVP/MVC archititecture
+iii) Material Design
+iv)  Basic OOP using Java
+v)   Kotlin
+vi)   SQL Query
+vii)  Basic Interview Question of android
+viii) Version Control like git
+ix)  Basic Logic and Algorithm
+ix) Project showing
+
 Q1: What are Reactive Extensions (Rx)
 Ans: Reactive Extensions (Rx) is a library for performing asynchronous programming with observable streams.
 Link : https://medium.com/@vamsitallapudi/rxandroid-tutorial-1-getting-started-with-reactive-extensions-in-android-864d45077cd3
