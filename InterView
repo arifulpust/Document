@@ -9,7 +9,51 @@ vii)  Basic Interview Question of android
 viii) Version Control like git
 ix)  Basic Logic and Algorithm
 ix) Project showing
-
+                                     RxJava
+  ______________________________________________________________________________________________________________________________________
 Q1: What are Reactive Extensions (Rx)
 Ans: Reactive Extensions (Rx) is a library for performing asynchronous programming with observable streams.
 Link : https://medium.com/@vamsitallapudi/rxandroid-tutorial-1-getting-started-with-reactive-extensions-in-android-864d45077cd3
+
+* What is RXAndroid
+RXAndroid is a framework to utilize the reactive extensions for Android Projects which is built on top of RXJava. RXAndroid is used to handle Asynchronous tasking efficiently in Android Applications.
+* What are Reactive Extensions (Rx)
+Reactive Extensions (Rx) is a library for performing asynchronous programming with observable streams.
+1. Observable:
+Observables simply emits the data to those which subscribed to them. All the emission is done asynchronously to the subscribers.
+example:
+// RxAndroid Tutorial - Adding Observable
+Observable<String> stringObservable = Observable.just("Hello Reactive Programming!");
+2. Observer
+Observer consumes the data emitted by the Observable. To do this, Observer needs to subscribe to the Observable.
+// RxAndroid Tutorial - Adding observer
+Observer<String> stringObserver = new Observer<String>() {
+            @Override
+            public void onSubscribe(Disposable d) {
+            }
+
+            @Override
+            public void onNext(String s) {
+                Toast.makeText(MainActivity.this, s, Toast.LENGTH_SHORT).show();
+            }
+
+            @Override
+            public void onError(Throwable e) {
+            }
+
+            @Override
+            public void onComplete() {
+            }
+        };
+       
+ 3. Subscribers
+Subscriber helps an Observer subscribe /unsubscribe from Observable.
+// RxAndroid tutorial - observer subscribing to observable
+stringObservable.subscribe(stringObserver);
+compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
+compile 'io.reactivex.rxjava2:rxjava:2.1.3'
+
+RxJava 2 for Android
+*****  https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850
+**    https://code.tutsplus.com/tutorials/getting-started-with-reactivex-on-android--cms-24387
+
