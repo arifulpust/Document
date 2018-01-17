@@ -1,0 +1,10 @@
+1. download and  install :https://getcomposer.org/download/
+2.  create-project --prefer-dist laravel/laravel projectName "5.4.*"   from xampp htdocs (in command line)
+3. cd projectName (in command line)
+4. php artisan serve
+5.php artisan make:auth
+6. php artisan migrate
+7. php artisan make:migration create_post_table --create=post for crteating table
+8.php artisan migrate
+9. php artisan make:model Post
+10. php artisan make:controller PostController --resource
