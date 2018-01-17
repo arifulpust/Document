@@ -8,3 +8,4 @@
 8.php artisan migrate
 9. php artisan make:model Post
 10. php artisan make:controller PostController --resource
+11.https://laravel.com/docs/5.4/
