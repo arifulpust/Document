@@ -1,4 +1,6 @@
 
+
+pdf book: http://goalkicker.com/AndroidBook/
 interview question
 
 1.retrofil=t vs volley:  http://www.tothenew.com/blog/retrofit-vs-volley/#.WfGI8BdFK1U.facebook
