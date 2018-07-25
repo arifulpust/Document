@@ -1,0 +1,13 @@
+Library Publish
+-----------------------
+1. jitpack easy way: https://jitpack.io
+2. jCenter
+jCenter
+------------
+1. https://android.jlelse.eu/publishing-your-android-kotlin-or-java-library-to-jcenter-from-android-studio-1b24977fe450
+2. https://central.sonatype.org/pages/ossrh-guide.html
+3.https://medium.com/@kostasdrakonakis/how-to-distribute-your-own-android-library-through-jitpack-or-jcenter-and-maven-central-from-174c356e818a
+4.https://medium.com/@yegor_zatsepin/simple-way-to-publish-your-android-library-to-jcenter-d1e145bacf13
+5.https://issues.sonatype.org/browse/OSSRH-41424
+6. https://bintray.com/
+7.https://github.com/arifulpust/TestLibrary
